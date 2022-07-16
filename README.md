@@ -1,26 +1,4 @@
 # Doggy Directory
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/Cool-Runningz/doggy-directory">
-    <img src="public/logo192.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <p align="center">
-  <strong>This is a sample app for the DigitalOcean article: "How to Test a React App with Jest and React Testing Library"</strong>
-    <br />
-    <br />
-    <a href="https://doggy-directory-app-6bm2f.ondigitalocean.app/">View Demo 🏗️</a>
-  </p>
-</p>
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
